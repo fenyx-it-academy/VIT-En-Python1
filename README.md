@@ -1,7 +1,5 @@
 # VIT-En-Python1
 
-# VIT-Python-1
-
 ## Question 1: Ask the user for the radius of a circle and calculate the area of the circle. Write a program that adds enough "-" to underline the area of the circle.
 ### Example:
 The Area of the Circle is 232 cm².
