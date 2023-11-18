@@ -151,4 +151,3 @@ else :
 #End of sixth exercise
 
 #End of the all of exercises
-
